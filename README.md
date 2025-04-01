@@ -6,17 +6,15 @@ Sou um **desenvolvedor fullstack com mais de 5 anos de experiência**, empreende
 
 ## Sobre mim
 
-- 💻 Especialista em React, Next.js, NestJS, Java, Spring Boot e MongoDB
+- 💻 Especialista em React, Next.js, NestJS, Java, Spring Boot, PostgreSQL e MongoDB
 
-- 🎯 Criador da Pryntio, um microSaaS para otimizar gestão em gráficas
-
-- 🤖 Desenvolvedor de soluções de automação, chatbots e integrações inteligentes
+- 🤖 Desenvolvedor de soluções e aplicações com automação, chatbots e integrações inteligentes
 
 - 🌎 Focado em minimizar custos iniciais com alternativas gratuitas para crescimento estratégico
 
 - 📚 Sempre estudando sobre Engenharia de Software e Computação para aprimorar minhas habilidades
 
-- 📌 Atualmente desenvolvendo Thryllo, uma rede social para desafios de bem-estar
+- 📌 Atualmente desenvolvendo Pryntio, um microSaaS para otimizar gestão em gráficas
 
 ---
 
