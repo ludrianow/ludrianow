@@ -1,65 +1,71 @@
-👋 Olá! Eu sou Ludriano Washington
+# 👋 Olá! Eu sou Ludriano Washington
 
-Sou um desenvolvedor fullstack com mais de 5 anos de experiência, empreendedor e apaixonado por tecnologia, automação e IA. Atuo na interseção entre desenvolvimento de software, automação e crescimento de negócios, criando soluções escaláveis e inovadoras.
+Sou um **desenvolvedor fullstack com mais de 5 anos de experiência**, empreendedor e apaixonado por tecnologia, automação e IA. Atuo na interseção entre **desenvolvimento de software, automação e crescimento de negócios**, criando soluções escaláveis e inovadoras.
 
-🚀 Sobre mim
+---
 
-💻 Especialista em React, Next.js, NestJS, Java, Spring Boot e MongoDB
+## Sobre mim
 
-🎯 Criador da Pryntio, um microSaaS para otimizar gestão em gráficas
+- 💻 Especialista em React, Next.js, NestJS, Java, Spring Boot e MongoDB
 
-🤖 Desenvolvedor de soluções de automação, chatbots e integrações inteligentes
+- 🎯 Criador da Pryntio, um microSaaS para otimizar gestão em gráficas
 
-🌎 Focado em minimizar custos iniciais com alternativas gratuitas para crescimento estratégico
+- 🤖 Desenvolvedor de soluções de automação, chatbots e integrações inteligentes
 
-📚 Sempre estudando sobre Engenharia de Software e Computação para aprimorar minhas habilidades
+- 🌎 Focado em minimizar custos iniciais com alternativas gratuitas para crescimento estratégico
 
-📌 Atualmente desenvolvendo Thryllo, uma rede social para desafios de bem-estar
+- 📚 Sempre estudando sobre Engenharia de Software e Computação para aprimorar minhas habilidades
 
-🛠️ Tecnologias e Ferramentas
+- 📌 Atualmente desenvolvendo Thryllo, uma rede social para desafios de bem-estar
 
-💻 Frontend
+---
 
-React.js, Next.js, TypeScript, ShadCN
+## 🛠️ Tecnologias e Ferramentas
 
-Tailwind CSS, Styled Components, Radix UI
+### 💻 Frontend
+- **React.js, Next.js, TypeScript, ShadCN**
+- **Tailwind CSS, Styled Components, Radix UI**
 
-🔧 Backend
+### 🔧 Backend
+- **NestJS, Node.js, Express.js**
+- **Java, Spring Boot, Spring Security**
 
-NestJS, Node.js, Express.js
+### 📦 Banco de Dados
+- **MongoDB, PostgreSQL, MySQL, Drizzle ORM, Prisma**
+- **Firebase, Supabase**
 
-Java, Spring Boot, Spring Security
+### 🚀 Infraestrutura e DevOps
+- **AWS (EC2, S3, Lambda), Docker**
+- **CI/CD com GitHub Actions**
 
-📦 Banco de Dados
+### 🤖 Automação e IA
+- **Baileys WhatsApp, Chatbots, Web Scraping (Apify), RPA**
+- **Python para automação e scripts**
 
-MongoDB, PostgreSQL, MySQL, Drizzle ORM, Prisma
+---
 
-Firebase, Supabase
+## 📌 Projetos em Destaque
 
-🚀 Infraestrutura e DevOps
+### 🚀 Em Andamento
 
-AWS (EC2, S3, Lambda), Docker
+- **[Pryntio](https://github.com/ludrianow/pryntio)** - SaaS para gestão de gráficas e comunicação visual
 
-CI/CD com GitHub Actions
 
-🤖 Automação e IA
+### ⏳ Em Aguardando
 
-Baileys WhatsApp, Chatbots, Web Scraping (Apify), RPA
+- **[MultiAtendente WhatsApp](https://github.com/seu-usuario/multi-atendente-whatsapp)** - Sistema para atendimento compartilhado via WhatsApp
+- **[AutomatizaBot](https://github.com/seu-usuario/automatiza-bot)** - Solução para automação de WhatsApp, e-mail e redes sociais
+- **[Thryllo](https://github.com/seu-usuario/thryllo)** - Rede social para desafios de bem-estar
+- 
+---
 
-Python para automação e scripts
+## 📫 Contato
 
-📌 Projetos em Destaque
+Se você quer trocar ideias sobre tecnologia, colaborações ou contratação, estou disponível!
 
-🚀 Em Andamento
-
-🔹 Pryntio - SaaS para gestão de gráficas e comunicação visual🔹 Thryllo - Rede social para desafios de bem-estar
-
-⏳ Em Aguardando
-
-🔹 MultiAtendente WhatsApp - Sistema para atendimento compartilhado via WhatsApp🔹 AutomatizaBot - Solução para automação de WhatsApp, e-mail e redes sociais
-
-📫 Contato
-
-Se você quer trocar ideias sobre tecnologia, colaborações ou contratação, estou disponível!📧 E-mail: ludrianowashington@gmail.com💬 WhatsApp: +55 81 99989-5415🔗 LinkedIn: linkedin.com/in/ludrianowashington🌍 Meu Site/Portfólio: ludrianowashington.vercel.app
+- **E-mail:** [ludrianowashington@gmail.com](mailto:ludrianowashington@gmail.com)
+- **WhatsApp:** [+55 81 99989-5415](https://wa.me/+5581999895415)
+- **LinkedIn:** [linkedin.com/in/ludrianowashington](https://linkedin.com/in/ludrianowashington)
+- **Meu Site/Portfólio:** [ludrianowashington.vercel.app](https://ludrianowashington.vercel.app)
 
 Sinta-se à vontade para explorar meus repositórios! 🚀
