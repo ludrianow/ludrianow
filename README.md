@@ -48,13 +48,11 @@ Sou um **desenvolvedor fullstack com mais de 3 anos de experiência**, empreende
 
 - **[Pryntio](https://github.com/ludrianow/pryntio)** - SaaS para gestão de gráficas e comunicação visual
 
+### ⏳ Pausados
 
-### ⏳ Em Aguardando
-
-- **[MultiAtendente WhatsApp](https://github.com/seu-usuario/multi-atendente-whatsapp)** - Sistema para atendimento compartilhado via WhatsApp
-- **[AutomatizaBot](https://github.com/seu-usuario/automatiza-bot)** - Solução para automação de WhatsApp, e-mail e redes sociais
-- **[Thryllo](https://github.com/seu-usuario/thryllo)** - Rede social para desafios de bem-estar
-- 
+- **[MultiAtendente WhatsApp](https://github.com/ludrianow/multi-atendente-whatsapp)** - Sistema para atendimento compartilhado via WhatsApp
+- **[AutomatizaBot](https://github.com/ludrianow/automatiza-bot)** - Solução para automação de WhatsApp, e-mail e redes sociais
+- **[Thryllo](https://github.com/ludrianow/thryllo)** - Rede social para desafios de bem-estar
 ---
 
 ## 📫 Contato
