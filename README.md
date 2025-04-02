@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Ludriano Washington
 
-Sou um **desenvolvedor fullstack com mais de 5 anos de experiência**, empreendedor e apaixonado por tecnologia, automação e IA. Atuo na interseção entre **desenvolvimento de software, automação e crescimento de negócios**, criando soluções escaláveis e inovadoras.
+Sou um **desenvolvedor fullstack com mais de 3 anos de experiência**, empreendedor e apaixonado por tecnologia, automação e IA. Atuo na interseção entre **desenvolvimento de software, automação e crescimento de negócios**, criando soluções escaláveis e inovadoras.
 
 ---
 
