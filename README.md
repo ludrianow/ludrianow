@@ -4,6 +4,9 @@ Sou um **desenvolvedor fullstack com mais de 3 anos de experiência**, empreende
 
 ---
 
+> _Este é um novo repo para organização de projetos que considero importante e que eu usei em projetos reais. Fique à vontade para explorar!_
+---
+
 ## Sobre mim
 
 - 💻 Especialista em React, Next.js, NestJS, Java, Spring Boot, PostgreSQL e MongoDB
