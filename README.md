@@ -55,6 +55,13 @@ Sou um **desenvolvedor fullstack com mais de 3 anos de experiência**, empreende
 - **[Thryllo](https://github.com/ludrianow/thryllo)** - Rede social para desafios de bem-estar
 ---
 
+<a href="https://github.com/ludrianow">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ludrianow&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/ludrianow">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludrianow" />
+</a>
+
 ## 📫 Contato
 
 Se você quer trocar ideias sobre tecnologia, colaborações ou contratação, estou disponível!
