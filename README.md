@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Ludriano Washington
+nmb # 👋 Olá! Eu sou Ludriano Washington
 
 Sou um **desenvolvedor fullstack com mais de 4 anos de experiência**, empreendedor e apaixonado por tecnologia, automação e IA. Atuo na interseção entre **desenvolvimento de software, automação e crescimento de negócios**, criando soluções escaláveis e inovadoras.
 
@@ -17,7 +17,7 @@ Sou um **desenvolvedor fullstack com mais de 4 anos de experiência**, empreende
 
 - 📚 Sempre estudando sobre Engenharia de Software e Computação para aprimorar minhas habilidades
 
-- 📌 Atualmente desenvolvendo Pryntio, um microSaaS para otimizar gestão em gráficas
+- 📌 Atualmente desenvolvendo Conttakta, um microSaaS para otimizar atendimentos empresariais
 
 ---
 
@@ -40,7 +40,7 @@ Sou um **desenvolvedor fullstack com mais de 4 anos de experiência**, empreende
 - **CI/CD com GitHub Actions**
 
 ### 🤖 Automação e IA
-- **Baileys WhatsApp, Chatbots, Web Scraping (Apify), RPA**
+- **Baileys WhatsApp, Chatbots, Web Scraping (Apify), N8N, RPA**
 - **Python para automação e scripts**
 
 ---
@@ -53,7 +53,7 @@ Sou um **desenvolvedor fullstack com mais de 4 anos de experiência**, empreende
 
 
 ### ⏳ Pausados
-- **[AutomatizaBot](https://github.com/ludrianow/automatiza-bot)** - Solução para automação de WhatsApp, e-mail e redes sociais
+- **[LuddiaBot](https://github.com/ludrianow/n8n-luddia)** - Solução para automação de WhatsApp, e-mail e redes sociais
 - **[Pryntio](https://github.com/ludrianow/pryntio)** - SaaS para gestão de gráficas e comunicação visual
 - **[Thryllo](https://github.com/ludrianow/thryllo)** - Rede social para desafios de bem-estar
 ---
