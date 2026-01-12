@@ -58,7 +58,9 @@ Sou um **desenvolvedor fullstack com mais de 4 anos de experiência**, empreende
 - **[Thryllo](https://github.com/ludrianow/thryllo)** - Rede social para desafios de bem-estar
 ---
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ludrianow&theme=cobalt&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=ludrianow&theme=cobalt&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
+</a>
 
 ## 📫 Contato
 
