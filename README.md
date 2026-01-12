@@ -17,7 +17,7 @@ Sou um **desenvolvedor fullstack com mais de 4 anos de experiência**, empreende
 
 - 📚 Sempre estudando sobre Engenharia de Software e Computação para aprimorar minhas habilidades
 
-- 📌 Atualmente desenvolvendo Conttakta, um microSaaS para otimizar atendimentos empresariais
+- 📌 Atualmente desenvolvendo a Pryntio.
 
 ---
 
