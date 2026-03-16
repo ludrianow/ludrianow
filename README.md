@@ -49,7 +49,7 @@ Sou um **desenvolvedor fullstack com mais de 4 anos de experiência**, empreende
 
 ### 🚀 Em Andamento
 
-- **[Pryntio](https://github.com/ludrianow/pryntio)** - SaaS para gestão de gráficas e comunicação visual
+- **[Pryntio](https://github.com/pryntio-corp/website)** - SaaS para gestão de gráficas e comunicação visual
 - **[MultiAtendente WhatsApp](https://github.com/ludrianow/multi-atendente-whatsapp)** - Sistema para atendimento compartilhado via WhatsApp
 
 
