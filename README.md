@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Ludriano Washington
 
-Sou um **desenvolvedor fullstack com mais de 4 anos de experiência**, empreendedor e apaixonado por tecnologia, automação e IA. Atuo na interseção entre **desenvolvimento de software, automação e crescimento de negócios**, criando soluções escaláveis e inovadoras.
+Sou um **desenvolvedor fullstack com mais de 5 anos de experiência**, empreendedor e apaixonado por tecnologia, automação e IA. Atuo na interseção entre **desenvolvimento de software, automação e crescimento de negócios**, criando soluções escaláveis e inovadoras.
 
 ---
 
@@ -24,7 +24,7 @@ Sou um **desenvolvedor fullstack com mais de 4 anos de experiência**, empreende
 ## 🛠️ Tecnologias e Ferramentas
 
 ### 💻 Frontend
-- **React.js, Next.js, TypeScript, ShadCN**
+- **React.js, Next.js, Angular, TypeScript, ShadCN**
 - **Tailwind CSS, Styled Components, Radix UI**
 
 ### 🔧 Backend
@@ -49,11 +49,12 @@ Sou um **desenvolvedor fullstack com mais de 4 anos de experiência**, empreende
 
 ### 🚀 Em Andamento
 
-- **[Pryntio](https://github.com/pryntio-corp/website)** - SaaS para gestão de gráficas e comunicação visual
-- **[MultiAtendente WhatsApp](https://github.com/ludrianow/multi-atendente-whatsapp)** - Sistema para atendimento compartilhado via WhatsApp
+- **[Pryntio](https://github.com/pryntio-corp/website)** - SaaS para gestão de gráficas e comunicação visual. [Saiba mais](https://pryntio.com.br)
+- **[Conttak](https://github.com/w4digital/conttak-web)** - Aplicação de auxilio de gestão financeiro. [Saiba mais](https://conttak.com.br)
 
 
 ### ⏳ Pausados
+- **[MultiAtendente WhatsApp](https://github.com/ludrianow/multi-atendente-whatsapp)** - Sistema para atendimento compartilhado via WhatsApp
 - **[LuddiaBot](https://github.com/ludrianow/n8n-luddia)** - Solução para automação de WhatsApp, e-mail e redes sociais
 - **[Thryllo](https://github.com/ludrianow/thryllo)** - Rede social para desafios de bem-estar
 ---
